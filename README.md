@@ -11,6 +11,9 @@ A production-grade container-based workflow engine to enable Analytics and Data 
 ## [javatuples](https://github.com/flipkart-incubator/javatuples)
 A production-grade fork of the popular 'javatuples' library (a typesafe representation of tuples in Java) with many improvements, fixes and higher test coverage.
 
+## [rsync-sidekick](https://github.com/m-manu/rsync-sidekick)
+Tool to detect file renames, movements and timestamp changes and propagate them before `rsync` runs.
+
 
 ## [Dropwizard One](https://github.com/flipkart-incubator/dropwizard-one)
 A wrapper framework (over Dropwizard, Guice, Swagger etc.) that helps you write a web service in minutes (not hours or days) with minimal boilerplate code and good testability. This library helps maintain your web-service easily.
