@@ -13,7 +13,7 @@ A production-grade fork of the popular 'javatuples' library (a typesafe represen
 Tool to detect file renames, movements and timestamp changes and propagate them before `rsync` runs.
 
 ## [go-find-duplicates](https://github.com/m-manu/go-find-duplicates)
-A blazingly-fast simple-to-use tool to find duplicate files (photos, videos, music, documents etc.) on your computer, portable hard drives etc.
+A blazingly-fast simple-to-use tool to find duplicate files (photos, videos, music, documents etc.) on your computer, portable hard drives etc. This tool featured on [Hacker News](https://news.ycombinator.com/) front page in Aug 2021.
 
 ## [Dropwizard One](https://github.com/flipkart-incubator/dropwizard-one)
 A wrapper framework (over Dropwizard, Guice, Swagger etc.) that helps you write a web service in minutes (not hours or days) with minimal boilerplate code and good testability. This library helps maintain your web-service easily.
