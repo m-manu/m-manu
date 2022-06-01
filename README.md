@@ -21,8 +21,8 @@ A light-weight library that helps auto-binding of resources and other classes in
 ## [javatuples](https://github.com/flipkart-incubator/javatuples)
 A production-grade fork of the popular 'javatuples' library (a typesafe representation of tuples in Java) with many improvements, fixes and higher test coverage.
 
-## [fincalc](https://github.com/m-manu/myvpn)
-Financial tools (India specific): EMI Calculator and Loan Limit Calculator
+## [fintools.in](https://github.com/m-manu/fintools.in)
+Financial tools (India specific): EMI Calculator and Loan Limit Calculator. Most of this tool was written in 2007 (with minor hosting related changes every few years) - but is still relevant. 
 
 ## [myvpn](https://github.com/m-manu/myvpn)
 A crude script to setup and use your own OpenVPN server. Get complete privacy at ⅓rd of the cost of a commercial VPN.
